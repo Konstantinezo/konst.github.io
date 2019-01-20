@@ -1,0 +1,48 @@
+html {
+	background-image: url(../images/image1.jpg); /*#007F4680;*/
+}
+
+body{
+	width: 600px;
+	margin: 0 auto;
+	margin-top: 0;
+	margin-bottom: 140px;
+	margin-left: auto; 
+	margin-right: auto;
+	background-color: #FF9500;
+	padding: 0 20px 20px 20px;
+	border: 5px solid black;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  font-family: 'Pacifico'; 
+  margin: 0;
+  padding: 20px 0;
+  color: #0026ffe6;
+  text-shadow: 5px 4px 5px grey;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+	width:50%;
+	height: 50%;	
+}
+
+p, li {
+  font-size: 16px;    
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+
+
+.custom-color
+			{
+			    color: #3FBFAB;
+			    font-size: 35px;
+			    border: 1px solid black;
+			    width: 500px;
+			}
